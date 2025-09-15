@@ -1,0 +1,5 @@
+Name:u.shirisha
+course:BCA
+section:1
+email:shirisha2@gmail.com
+suc:2349250101
